@@ -91,8 +91,8 @@ export function createVitePlugins() {
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'vue3-vant-mobile',
-        short_name: 'vue3-vant-mobile',
+        name: '元梦农场小助手',
+        short_name: '元梦农场小助手',
         theme_color: '#ffffff',
         icons: [
           {
